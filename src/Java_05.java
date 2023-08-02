@@ -94,7 +94,7 @@ public class Java_05 {
         // 추가로, 10도, 20도, ... 10도 간격으로 물 온도를 출력하시오.
         System.out.println("== Q2 ==");
         int waterTemperature = 0;
-        while (waterTemperature <= 100) {
+        while (waterTemperature < 100) {
             waterTemperature++;
             if (waterTemperature % 10 == 0) {
                 System.out.println(waterTemperature);
