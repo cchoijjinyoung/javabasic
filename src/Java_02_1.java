@@ -1,4 +1,4 @@
-public class java_02_1 {
+public class Java_02_1 {
     public static void main(String[] args) {
         // 1. 변수 사용하기
         System.out.println("== 변수 사용하기 ==");
