@@ -11,4 +11,6 @@ public abstract class 도형 {
     }
 
     public abstract void 그리기();
+
+    public abstract void 지우기();
 }
